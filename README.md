@@ -2,6 +2,8 @@
 
 Feeling tired? Why not stay up and hack together a machine to help you experience [lucid dreams](https://en.wikipedia.org/wiki/Lucid_dream).
 
+![zzz in operation](https://github.com/mirthturtle/zzz/blob/main/bedside.jpg "zzz in operation")
+
 Wear a trigger-style mouse on your finger during sleep to play sounds with small hand movements. Hearing these sounds in a dream can alert you to your state and make the dream more interactive.
 
 ## Equipment
@@ -21,7 +23,7 @@ pip3 install pygame --break-system-packages
 pip3 install evdev --break-system-packages
 ```
 
-Find some sounds you like and put them in the `sound` directory. Link them at the top of `zzz.py`.
+Find some sounds you like, put them in the `sound` directory, and link them to your desired buttons in `zzz.py`.
 
 ## Running
 
