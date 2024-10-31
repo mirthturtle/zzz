@@ -27,5 +27,5 @@ Find some sounds you like, put them in the `sound` directory, and link them to y
 
 ## Running
 
-Run with: `python3 zzz.py`
+Run with: `sh run.sh`.
 
