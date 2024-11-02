@@ -30,7 +30,7 @@ Put sounds in the `sound` directory and link them to your desired buttons in `zz
 
 ## Running
 
-Run with: `sh run.sh`.
+Run `sh run.sh` in the project directory.
 
 ## License
 
