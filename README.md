@@ -4,12 +4,12 @@ Feeling tired? Why not stay up and hack together a machine to help you experienc
 
 ![zzz in operation](https://github.com/mirthturtle/zzz/blob/main/bedside.jpg "zzz in operation")
 
-Wear a trigger-style mouse on your finger during sleep to play sounds with small hand movements. Hearing these sounds in a dream can alert you to your state and make the dream more interactive.
+`zzz` uses a trigger-style mouse to play distinctive sounds. Wear it during sleep and test your reality in dreams by squeezing your finger or thumb. If you hear the sounds, you can recognize that you're asleep and take control of the dream.
 
 ## Equipment
 
 You will need:
-- [Raspberry Pi](https://www.raspberrypi.com/) w/ wireless capability
+- A [Raspberry Pi](https://www.raspberrypi.com/)
 - An ergonomic handheld trigger mouse
 - Speaker or headphones
 
