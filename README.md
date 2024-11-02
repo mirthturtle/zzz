@@ -15,15 +15,18 @@ You will need:
 
 ## Setup
 
-Install dependencies:
+Clone the repo to your Pi. Install Python:
 ```
 sudo apt update
 sudo apt install python3 python3-pip
-pip3 install pygame --break-system-packages
-pip3 install evdev --break-system-packages
 ```
+Install dependencies:
+```
+pip3 install pygame evdev
+```
+Depending on your Pi OS version you may need to add `--break-system-packages` here; this is fine if your Pi will be a dedicated `zzz` machine and you don't care about your Python environment; otherwise, create a virtual environment.
 
-Find some sounds you like, put them in the `sound` directory, and link them to your desired buttons in `zzz.py`.
+Put sounds in the `sound` directory and link them to your desired buttons in `zzz.py`.
 
 ## Running
 
