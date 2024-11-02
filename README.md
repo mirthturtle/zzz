@@ -32,3 +32,6 @@ Put sounds in the `sound` directory and link them to your desired buttons in `zz
 
 Run with: `sh run.sh`.
 
+## License
+
+This program is licensed by GPL-3.0.
