@@ -28,9 +28,13 @@ Depending on your Pi OS version you may need to add `--break-system-packages` he
 
 Put sounds in the `sound` directory and link them to your desired buttons in `zzz.py`.
 
+Adjust volume with `alsamixer`.
+
 ## Running
 
 Run `sh run.sh` in the project directory.
+
+Timestamped logs are collected in `sleep.log`.
 
 ## License
 
